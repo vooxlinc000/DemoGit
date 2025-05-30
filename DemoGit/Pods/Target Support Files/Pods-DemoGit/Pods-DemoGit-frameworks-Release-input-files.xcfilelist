@@ -1,0 +1,3 @@
+${PODS_ROOT}/Target Support Files/Pods-DemoGit/Pods-DemoGit-frameworks.sh
+${BUILT_PRODUCTS_DIR}/FCUUID/FCUUID.framework
+${BUILT_PRODUCTS_DIR}/UICKeyChainStore/UICKeyChainStore.framework
